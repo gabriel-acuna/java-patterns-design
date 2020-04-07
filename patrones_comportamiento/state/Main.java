@@ -17,6 +17,10 @@ public class Main {
           * Move on
           * OSff
           */
+          auto.off();
+          auto.on();;
+          auto.onMove();
+          auto.on();
     }
 
 }
